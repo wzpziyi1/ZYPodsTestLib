@@ -11,7 +11,7 @@
 @implementation YQDDeviceProperties
 + (NSString *)getServceHost
 {
-    return YES ? @"" : @"";
+    return @"";
 }
 
 
