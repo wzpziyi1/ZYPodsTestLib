@@ -1,0 +1,6 @@
+framework module BaseLib {
+  umbrella header "BaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

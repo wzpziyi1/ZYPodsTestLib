@@ -1,0 +1,22 @@
+{
+  "name": "BaseLib",
+  "version": "0.1.0",
+  "summary": "A short description of BaseLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wzpziyi1/BaseLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wzpziyi1": "1204473090@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wzpziyi1/BaseLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BaseLib/Classes/**/*"
+}
