@@ -1,9 +1,9 @@
 {
   "name": "BaseLib",
-  "version": "0.1.0",
-  "summary": "A short description of BaseLib.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wzpziyi1/BaseLib",
+  "version": "0.1.1",
+  "summary": "Test",
+  "description": "Test Pods Lib",
+  "homepage": "https://github.com/wzpziyi1/ZYPodsTestLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "wzpziyi1": "1204473090@qq.com"
   },
   "source": {
-    "git": "https://github.com/wzpziyi1/BaseLib.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/wzpziyi1/ZYPodsTestLib",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "BaseLib/Classes/**/*"
+  "source_files": "BaseLib/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ]
+  }
 }
