@@ -25,7 +25,7 @@ Test Pods Lib
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wzpziyi1' => '1204473090@qq.com' }
-  s.source           = { :git => 'https://github.com/wzpziyi1/ZYPodsTestLib', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wzpziyi1/ZYPodsTestLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
